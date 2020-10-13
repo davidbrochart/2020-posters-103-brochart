@@ -1,0 +1,4 @@
+xarray_leaflet==0.1.10
+requests
+tqdm
+ipympl
